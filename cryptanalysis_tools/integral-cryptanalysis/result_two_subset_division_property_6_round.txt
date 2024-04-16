@@ -1,0 +1,520 @@
+Starting the solving process.
+Found the 163'th unit vector
+Found 1 out of 257 unit vectors.
+Found the 202'th unit vector
+Found 2 out of 257 unit vectors.
+Found the 73'th unit vector
+Found 3 out of 257 unit vectors.
+Found the 240'th unit vector
+Found 4 out of 257 unit vectors.
+Found the 177'th unit vector
+Found 5 out of 257 unit vectors.
+Found the 94'th unit vector
+Found 6 out of 257 unit vectors.
+Found the 97'th unit vector
+Found 7 out of 257 unit vectors.
+Found the 200'th unit vector
+Found 8 out of 257 unit vectors.
+Found the 201'th unit vector
+Found 9 out of 257 unit vectors.
+Found the 193'th unit vector
+Found 10 out of 257 unit vectors.
+Found the 189'th unit vector
+Found 11 out of 257 unit vectors.
+Found the 152'th unit vector
+Found 12 out of 257 unit vectors.
+Found the 65'th unit vector
+Found 13 out of 257 unit vectors.
+Found the 209'th unit vector
+Found 14 out of 257 unit vectors.
+Found the 91'th unit vector
+Found 15 out of 257 unit vectors.
+Found the 179'th unit vector
+Found 16 out of 257 unit vectors.
+Found the 199'th unit vector
+Found 17 out of 257 unit vectors.
+Found the 198'th unit vector
+Found 18 out of 257 unit vectors.
+Found the 114'th unit vector
+Found 19 out of 257 unit vectors.
+Found the 17'th unit vector
+Found 20 out of 257 unit vectors.
+Found the 197'th unit vector
+Found 21 out of 257 unit vectors.
+Found the 196'th unit vector
+Found 22 out of 257 unit vectors.
+Found the 190'th unit vector
+Found 23 out of 257 unit vectors.
+Found the 145'th unit vector
+Found 24 out of 257 unit vectors.
+Found the 238'th unit vector
+Found 25 out of 257 unit vectors.
+Found the 154'th unit vector
+Found 26 out of 257 unit vectors.
+Found the 117'th unit vector
+Found 27 out of 257 unit vectors.
+Found the 122'th unit vector
+Found 28 out of 257 unit vectors.
+Found the 112'th unit vector
+Found 29 out of 257 unit vectors.
+Found the 148'th unit vector
+Found 30 out of 257 unit vectors.
+Found the 239'th unit vector
+Found 31 out of 257 unit vectors.
+Found the 23'th unit vector
+Found 32 out of 257 unit vectors.
+Found the 41'th unit vector
+Found 33 out of 257 unit vectors.
+Found the 173'th unit vector
+Found 34 out of 257 unit vectors.
+Found the 237'th unit vector
+Found 35 out of 257 unit vectors.
+Found the 150'th unit vector
+Found 36 out of 257 unit vectors.
+Found the 172'th unit vector
+Found 37 out of 257 unit vectors.
+Found the 191'th unit vector
+Found 38 out of 257 unit vectors.
+Found the 192'th unit vector
+Found 39 out of 257 unit vectors.
+Found the 149'th unit vector
+Found 40 out of 257 unit vectors.
+Found the 113'th unit vector
+Found 41 out of 257 unit vectors.
+Found the 26'th unit vector
+Found 42 out of 257 unit vectors.
+Found the 110'th unit vector
+Found 43 out of 257 unit vectors.
+Found the 195'th unit vector
+Found 44 out of 257 unit vectors.
+Found the 28'th unit vector
+Found 45 out of 257 unit vectors.
+Found the 98'th unit vector
+Found 46 out of 257 unit vectors.
+Found the 111'th unit vector
+Found 47 out of 257 unit vectors.
+Found the 77'th unit vector
+Found 48 out of 257 unit vectors.
+Found the 188'th unit vector
+Found 49 out of 257 unit vectors.
+Found the 187'th unit vector
+Found 50 out of 257 unit vectors.
+Found the 109'th unit vector
+Found 51 out of 257 unit vectors.
+Found the 78'th unit vector
+Found 52 out of 257 unit vectors.
+Found the 226'th unit vector
+Found 53 out of 257 unit vectors.
+Found the 84'th unit vector
+Found 54 out of 257 unit vectors.
+Found the 194'th unit vector
+Found 55 out of 257 unit vectors.
+Found the 126'th unit vector
+Found 56 out of 257 unit vectors.
+Found the 185'th unit vector
+Found 57 out of 257 unit vectors.
+Found the 186'th unit vector
+Found 58 out of 257 unit vectors.
+Found the 182'th unit vector
+Found 59 out of 257 unit vectors.
+Found the 96'th unit vector
+Found 60 out of 257 unit vectors.
+Found the 95'th unit vector
+Found 61 out of 257 unit vectors.
+Found the 235'th unit vector
+Found 62 out of 257 unit vectors.
+Found the 9'th unit vector
+Found 63 out of 257 unit vectors.
+Found the 59'th unit vector
+Found 64 out of 257 unit vectors.
+Found the 103'th unit vector
+Found 65 out of 257 unit vectors.
+Found the 184'th unit vector
+Found 66 out of 257 unit vectors.
+Found the 57'th unit vector
+Found 67 out of 257 unit vectors.
+Found the 236'th unit vector
+Found 68 out of 257 unit vectors.
+Found the 178'th unit vector
+Found 69 out of 257 unit vectors.
+Found the 166'th unit vector
+Found 70 out of 257 unit vectors.
+Found the 203'th unit vector
+Found 71 out of 257 unit vectors.
+Found the 27'th unit vector
+Found 72 out of 257 unit vectors.
+Found the 29'th unit vector
+Found 73 out of 257 unit vectors.
+Found the 45'th unit vector
+Found 74 out of 257 unit vectors.
+Found the 221'th unit vector
+Found 75 out of 257 unit vectors.
+Found the 183'th unit vector
+Found 76 out of 257 unit vectors.
+Found the 204'th unit vector
+Found 77 out of 257 unit vectors.
+Found the 141'th unit vector
+Found 78 out of 257 unit vectors.
+Found the 181'th unit vector
+Found 79 out of 257 unit vectors.
+Found the 105'th unit vector
+Found 80 out of 257 unit vectors.
+Found the 175'th unit vector
+Found 81 out of 257 unit vectors.
+Found the 15'th unit vector
+Found 82 out of 257 unit vectors.
+Found the 180'th unit vector
+Found 83 out of 257 unit vectors.
+Found the 176'th unit vector
+Found 84 out of 257 unit vectors.
+Found the 121'th unit vector
+Found 85 out of 257 unit vectors.
+Found the 140'th unit vector
+Found 86 out of 257 unit vectors.
+Found the 174'th unit vector
+Found 87 out of 257 unit vectors.
+Found the 171'th unit vector
+Found 88 out of 257 unit vectors.
+Found the 76'th unit vector
+Found 89 out of 257 unit vectors.
+Found the 170'th unit vector
+Found 90 out of 257 unit vectors.
+Found the 169'th unit vector
+Found 91 out of 257 unit vectors.
+Found the 104'th unit vector
+Found 92 out of 257 unit vectors.
+Found the 120'th unit vector
+Found 93 out of 257 unit vectors.
+Found the 116'th unit vector
+Found 94 out of 257 unit vectors.
+Found the 205'th unit vector
+Found 95 out of 257 unit vectors.
+Found the 134'th unit vector
+Found 96 out of 257 unit vectors.
+Found the 223'th unit vector
+Found 97 out of 257 unit vectors.
+Found the 159'th unit vector
+Found 98 out of 257 unit vectors.
+Found the 168'th unit vector
+Found 99 out of 257 unit vectors.
+Found the 167'th unit vector
+Found 100 out of 257 unit vectors.
+Found the 225'th unit vector
+Found 101 out of 257 unit vectors.
+Found the 102'th unit vector
+Found 102 out of 257 unit vectors.
+Found the 115'th unit vector
+Found 103 out of 257 unit vectors.
+Found the 106'th unit vector
+Found 104 out of 257 unit vectors.
+Found the 160'th unit vector
+Found 105 out of 257 unit vectors.
+Found the 64'th unit vector
+Found 106 out of 257 unit vectors.
+Found the 229'th unit vector
+Found 107 out of 257 unit vectors.
+Found the 118'th unit vector
+Found 108 out of 257 unit vectors.
+Found the 119'th unit vector
+Found 109 out of 257 unit vectors.
+Found the 89'th unit vector
+Found 110 out of 257 unit vectors.
+Found the 165'th unit vector
+Found 111 out of 257 unit vectors.
+Found the 158'th unit vector
+Found 112 out of 257 unit vectors.
+Found the 147'th unit vector
+Found 113 out of 257 unit vectors.
+Found the 164'th unit vector
+Found 114 out of 257 unit vectors.
+Found the 58'th unit vector
+Found 115 out of 257 unit vectors.
+Found the 56'th unit vector
+Found 116 out of 257 unit vectors.
+Found the 130'th unit vector
+Found 117 out of 257 unit vectors.
+Found the 162'th unit vector
+Found 118 out of 257 unit vectors.
+Found the 153'th unit vector
+Found 119 out of 257 unit vectors.
+Found the 250'th unit vector
+Found 120 out of 257 unit vectors.
+Found the 161'th unit vector
+Found 121 out of 257 unit vectors.
+Found the 151'th unit vector
+Found 122 out of 257 unit vectors.
+Found the 157'th unit vector
+Found 123 out of 257 unit vectors.
+Found the 206'th unit vector
+Found 124 out of 257 unit vectors.
+Found the 156'th unit vector
+Found 125 out of 257 unit vectors.
+Found the 101'th unit vector
+Found 126 out of 257 unit vectors.
+Found the 155'th unit vector
+Found 127 out of 257 unit vectors.
+Found the 85'th unit vector
+Found 128 out of 257 unit vectors.
+Found the 228'th unit vector
+Found 129 out of 257 unit vectors.
+Found the 146'th unit vector
+Found 130 out of 257 unit vectors.
+Found the 60'th unit vector
+Found 131 out of 257 unit vectors.
+Found the 251'th unit vector
+Found 132 out of 257 unit vectors.
+Found the 227'th unit vector
+Found 133 out of 257 unit vectors.
+Found the 48'th unit vector
+Found 134 out of 257 unit vectors.
+Found the 139'th unit vector
+Found 135 out of 257 unit vectors.
+Found the 107'th unit vector
+Found 136 out of 257 unit vectors.
+Found the 123'th unit vector
+Found 137 out of 257 unit vectors.
+Found the 142'th unit vector
+Found 138 out of 257 unit vectors.
+Found the 233'th unit vector
+Found 139 out of 257 unit vectors.
+Found the 52'th unit vector
+Found 140 out of 257 unit vectors.
+Found the 218'th unit vector
+Found 141 out of 257 unit vectors.
+Found the 108'th unit vector
+Found 142 out of 257 unit vectors.
+Found the 61'th unit vector
+Found 143 out of 257 unit vectors.
+Found the 100'th unit vector
+Found 144 out of 257 unit vectors.
+Found the 144'th unit vector
+Found 145 out of 257 unit vectors.
+Found the 143'th unit vector
+Found 146 out of 257 unit vectors.
+Found the 138'th unit vector
+Found 147 out of 257 unit vectors.
+Found the 137'th unit vector
+Found 148 out of 257 unit vectors.
+Found the 124'th unit vector
+Found 149 out of 257 unit vectors.
+Found the 132'th unit vector
+Found 150 out of 257 unit vectors.
+Found the 133'th unit vector
+Found 151 out of 257 unit vectors.
+Found the 125'th unit vector
+Found 152 out of 257 unit vectors.
+Found the 135'th unit vector
+Found 153 out of 257 unit vectors.
+Found the 90'th unit vector
+Found 154 out of 257 unit vectors.
+Found the 63'th unit vector
+Found 155 out of 257 unit vectors.
+Found the 131'th unit vector
+Found 156 out of 257 unit vectors.
+Found the 79'th unit vector
+Found 157 out of 257 unit vectors.
+Found the 99'th unit vector
+Found 158 out of 257 unit vectors.
+Found the 127'th unit vector
+Found 159 out of 257 unit vectors.
+Found the 32'th unit vector
+Found 160 out of 257 unit vectors.
+Found the 129'th unit vector
+Found 161 out of 257 unit vectors.
+Found the 128'th unit vector
+Found 162 out of 257 unit vectors.
+Found the 234'th unit vector
+Found 163 out of 257 unit vectors.
+Found the 47'th unit vector
+Found 164 out of 257 unit vectors.
+Found the 136'th unit vector
+Found 165 out of 257 unit vectors.
+Found the 93'th unit vector
+Found 166 out of 257 unit vectors.
+Found the 92'th unit vector
+Found 167 out of 257 unit vectors.
+Found the 88'th unit vector
+Found 168 out of 257 unit vectors.
+Found the 62'th unit vector
+Found 169 out of 257 unit vectors.
+Found the 83'th unit vector
+Found 170 out of 257 unit vectors.
+Found the 67'th unit vector
+Found 171 out of 257 unit vectors.
+Found the 42'th unit vector
+Found 172 out of 257 unit vectors.
+Found the 87'th unit vector
+Found 173 out of 257 unit vectors.
+Found the 86'th unit vector
+Found 174 out of 257 unit vectors.
+Found the 80'th unit vector
+Found 175 out of 257 unit vectors.
+Found the 75'th unit vector
+Found 176 out of 257 unit vectors.
+Found the 74'th unit vector
+Found 177 out of 257 unit vectors.
+Found the 242'th unit vector
+Found 178 out of 257 unit vectors.
+Found the 82'th unit vector
+Found 179 out of 257 unit vectors.
+Found the 81'th unit vector
+Found 180 out of 257 unit vectors.
+Found the 72'th unit vector
+Found 181 out of 257 unit vectors.
+Found the 69'th unit vector
+Found 182 out of 257 unit vectors.
+Found the 49'th unit vector
+Found 183 out of 257 unit vectors.
+Found the 244'th unit vector
+Found 184 out of 257 unit vectors.
+Found the 70'th unit vector
+Found 185 out of 257 unit vectors.
+Found the 71'th unit vector
+Found 186 out of 257 unit vectors.
+Found the 208'th unit vector
+Found 187 out of 257 unit vectors.
+Found the 207'th unit vector
+Found 188 out of 257 unit vectors.
+Found the 232'th unit vector
+Found 189 out of 257 unit vectors.
+Found the 249'th unit vector
+Found 190 out of 257 unit vectors.
+Found the 222'th unit vector
+Found 191 out of 257 unit vectors.
+Found the 224'th unit vector
+Found 192 out of 257 unit vectors.
+Found the 46'th unit vector
+Found 193 out of 257 unit vectors.
+Found the 231'th unit vector
+Found 194 out of 257 unit vectors.
+Found the 39'th unit vector
+Found 195 out of 257 unit vectors.
+Found the 68'th unit vector
+Found 196 out of 257 unit vectors.
+Found the 66'th unit vector
+Found 197 out of 257 unit vectors.
+Found the 230'th unit vector
+Found 198 out of 257 unit vectors.
+Found the 210'th unit vector
+Found 199 out of 257 unit vectors.
+Found the 31'th unit vector
+Found 200 out of 257 unit vectors.
+Found the 243'th unit vector
+Found 201 out of 257 unit vectors.
+Found the 25'th unit vector
+Found 202 out of 257 unit vectors.
+Found the 220'th unit vector
+Found 203 out of 257 unit vectors.
+Found the 40'th unit vector
+Found 204 out of 257 unit vectors.
+Found the 219'th unit vector
+Found 205 out of 257 unit vectors.
+Found the 217'th unit vector
+Found 206 out of 257 unit vectors.
+Found the 256'th unit vector
+Found 207 out of 257 unit vectors.
+Found the 30'th unit vector
+Found 208 out of 257 unit vectors.
+Found the 241'th unit vector
+Found 209 out of 257 unit vectors.
+Found the 20'th unit vector
+Found 210 out of 257 unit vectors.
+Found the 34'th unit vector
+Found 211 out of 257 unit vectors.
+Found the 246'th unit vector
+Found 212 out of 257 unit vectors.
+Found the 51'th unit vector
+Found 213 out of 257 unit vectors.
+Found the 247'th unit vector
+Found 214 out of 257 unit vectors.
+Found the 35'th unit vector
+Found 215 out of 257 unit vectors.
+Found the 43'th unit vector
+Found 216 out of 257 unit vectors.
+Found the 216'th unit vector
+Found 217 out of 257 unit vectors.
+Found the 10'th unit vector
+Found 218 out of 257 unit vectors.
+Found the 245'th unit vector
+Found 219 out of 257 unit vectors.
+Found the 24'th unit vector
+Found 220 out of 257 unit vectors.
+Found the 248'th unit vector
+Found 221 out of 257 unit vectors.
+Found the 215'th unit vector
+Found 222 out of 257 unit vectors.
+Found the 252'th unit vector
+Found 223 out of 257 unit vectors.
+Found the 33'th unit vector
+Found 224 out of 257 unit vectors.
+Found the 212'th unit vector
+Found 225 out of 257 unit vectors.
+Found the 214'th unit vector
+Found 226 out of 257 unit vectors.
+Found the 213'th unit vector
+Found 227 out of 257 unit vectors.
+Found the 53'th unit vector
+Found 228 out of 257 unit vectors.
+Found the 36'th unit vector
+Found 229 out of 257 unit vectors.
+Found the 211'th unit vector
+Found 230 out of 257 unit vectors.
+Found the 50'th unit vector
+Found 231 out of 257 unit vectors.
+Found the 14'th unit vector
+Found 232 out of 257 unit vectors.
+Found the 8'th unit vector
+Found 233 out of 257 unit vectors.
+Found the 54'th unit vector
+Found 234 out of 257 unit vectors.
+Found the 55'th unit vector
+Found 235 out of 257 unit vectors.
+Found the 44'th unit vector
+Found 236 out of 257 unit vectors.
+Found the 2'th unit vector
+Found 237 out of 257 unit vectors.
+Found the 38'th unit vector
+Found 238 out of 257 unit vectors.
+Found the 6'th unit vector
+Found 239 out of 257 unit vectors.
+Found the 37'th unit vector
+Found 240 out of 257 unit vectors.
+Found the 21'th unit vector
+Found 241 out of 257 unit vectors.
+Found the 1'th unit vector
+Found 242 out of 257 unit vectors.
+Found the 22'th unit vector
+Found 243 out of 257 unit vectors.
+Found the 18'th unit vector
+Found 244 out of 257 unit vectors.
+Found the 16'th unit vector
+Found 245 out of 257 unit vectors.
+Found the 11'th unit vector
+Found 246 out of 257 unit vectors.
+Found the 5'th unit vector
+Found 247 out of 257 unit vectors.
+Found the 13'th unit vector
+Found 248 out of 257 unit vectors.
+Found the 3'th unit vector
+Found 249 out of 257 unit vectors.
+Found the 19'th unit vector
+Found 250 out of 257 unit vectors.
+Found the 4'th unit vector
+Found 251 out of 257 unit vectors.
+Found the 12'th unit vector
+Found 252 out of 257 unit vectors.
+Found the 0'th unit vector
+Found 253 out of 257 unit vectors.
+Found the 7'th unit vector
+Found 254 out of 257 unit vectors.
+Found the 255'th unit vector
+Found 255 out of 257 unit vectors.
+Found the 253'th unit vector
+Found 256 out of 257 unit vectors.
+Found the 254'th unit vector
+Found 257 out of 257 unit vectors.
+Computation took 00:15:52 seconds.
+Found the following unit vectors:
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256]
+The number of unit vectors founds is equal to 257
+Does the list contain duplicates? False

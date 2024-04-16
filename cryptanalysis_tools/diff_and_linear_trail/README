@@ -1,0 +1,14 @@
+In this repository we provode python code for computing differential and linear trail for Koala.
+
+Those python code use the Gurobi Solver to solve MILP model
+Thise code is writen with python3 
+
+To compute differential trail :  diff_trail_search_koala.py 
+
+To compute linear trail : linear_trail_search_koala.py 
+
+Both python program  compute trail for 1 to 4 round and print one with the minimal weight
+
+To use both script:
+
+   python3 exe.py 

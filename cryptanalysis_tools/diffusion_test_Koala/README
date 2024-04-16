@@ -1,0 +1,14 @@
+In this repository we provide code to test the diffusion properies of Koala.
+This code allow testing those two cipher for different state size and for different number of round.
+
+
+For each cipher and each size we compute three metric: the avalanche dependency,
+the avalanch weight and the avalanche entropy.
+
+We provide a Makefile to compile the code and creat the executable diffusion
+We give as argument to the executable:
+
+ make
+ ./diffusion_koala
+
+The main is in the diffusion_exe.c file and the test are in the diffusion_test.c

@@ -1,0 +1,79 @@
+This README contains the necessary information to use the python file to compute the different bit-base division properties of Koala
+
+
+######### Three subset division property ##################
+
+
+There is 2 files to use the three-subset division property named koala-three-subset.py and koala-three-subset-without-unknown.py
+
+koala-three-subset.py can be use to compute for a number of round r, and for an affine space A define as a liste of input indexes, and for an optional output coordinate c (if not specify then it will do it for all) the coeficient of the monomial define as the product of the input variable use for the affine space.
+The program will search for all output coordonate (or the one specify) if the the coeficient is 0,1 or unknown (-1).
+If the result is 0 or 1 it means that the affine space can be use as dinstinguisher, if the result is -1 the it is unknonw (meaning the algorithm can't determine the coeficient)
+
+koala-three-subset-without-unknown.py can be use to compute the presence of a certain monomial T in a certain output coordinate x after a certain numer of round r.
+The coeficient of the monomial are define as a liste of input variable and key variable (each non empty).
+The programme will search all division trail to determine de parity and return the presence or the absence of a certain monomial.
+
+
+The first programme is much more efficient than the second because it can prune the search to determine only the coeficient of a monomial using only the input variable.
+The second one require more computation in order to return an exact result on the peresence of a specific monomial.
+
+Therefore we advice first to use the first one to search for a monomial in term of input variable, then once the user know that a certain monomial appear with probability 1 at a certain output coordinate, it can look for the key dependency of this monomial by searching for a specific combinason of this monomial and key variable.
+
+
+To use both python file the commande is as follow: 
+
+	koala-three-subset.py nbr_round list_of_input_index [output coordinate]
+	
+	koala-three-subset-without-unknown nbr_round ouput_coordinate list_of_input_index list_of_key_index
+	
+In both cases the list should be given as a sequence of number between 0 and 63 for the list_of_input_index and between 0 and 256 for the list_of_key_index 
+Example :
+	
+	python koala-three-subset-without-unknown.py 2 0 22,23,30,31 7  -> searching if the monomial x0x1x2x3k0k1 apprear after 2 round at position 0
+	python koala-three-subset.py 1 22,23,30,31 -> searching the coeficient of the monomial x22x23x30x31 after 1 round at all position
+	python koala-three-subset.py 1 4,5,34,35 0 -> searching the coeficient of the monomial x4x5x34x35 after 2 round at the output coordinate 0
+	python koala-three-subsets.py 5 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63   -> searching if the term containing all input variable appear after 5 round
+	
+	
+To simplify the search of distinguisher we also provide some simple script to automatize the search for the three-subset-without-unknown programme
+
+########## Two subset division property ###################
+
+The file koala-two-subset work in a different way.
+The goal is to compute the presence or the absence of 2-subset division property within a number of round r.
+
+To use the python file the commande is as follow:
+
+	koala-two-subset.py nbr_round
+	
+
+
+
+########### Additional scripts ###############
+
+We also provide addition bash script to automatize the search for integral distinguisher:
+
+First, using the koala-three-subset.py code :
+
+Search for all monomial of degree 4 after 1 round for a specific output bit position
+
+       try_all_monomial.sh  output_bit_position 
+
+
+Then, using the koala-three-subsets-without-unknown.py code:
+
+Search for all output bit position after nbr round if the combinason input_set key_set can be use as dinstinguisher
+       try_all_pos.sh nbr_round input_set key_set
+
+Search for an output bit position if after nbr round the input set depend linearly on  key variable
+       try_all_linear_key.sh nbr_round output_bit_position input_set (without unknow)
+
+Search for all output bit position if after nbr round the input set depend linearly on  key variable
+       try_all_linear_key_for_all_pos.sh nbr_round input_set (without unknow)
+
+Search for an output bit position if after nbr round the input set depend quadraticly on  key variable
+       try_all_quadratic_key.sh ouput_bit_position (without unknow)
+
+Search for all output bit position if after nbr round the input set depend quadraticly on  key variable
+       try_all_quadratic_key_for_all_pos.sh (without unknow)

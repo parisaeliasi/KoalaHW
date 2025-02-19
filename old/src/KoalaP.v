@@ -10,8 +10,8 @@ wire[256:0] round_o_s [(nr_rounds-1):0];
 
 genvar i;
 generate
-    for (i=0; i<nr_rounds; i=i+1) begin: KoalaP_round_n
-        if (i == 1 || i == 3 || i == 4 || i == 7 || i == 8) begin
+    for (i=1; i<=nr_rounds; i=i+1) begin: KoalaP_round_n
+        if ( i == 1 || i == 3 || i == 4 || i == 7 || i == 8) begin
             KoalaP_round_w KoalaP_round_w_ins(
                 .round_i(round_i_s[i]),
                 .round_o(round_o_s[i])
